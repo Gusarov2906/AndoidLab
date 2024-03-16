@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LabProject</string>
+    <string name="lab1">LAB1</string>
+    <string name="lab2">LAB2</string>
+    <string name="lab3">LAB3</string>
+    <string name="lab4_5_6">LAB4 LAB5 LAB6</string>
+    <string name="firstValue"></string>
+    <string name="secondValue"></string>
+    <string name="result">ERROR</string>
+    <string name="lab7">LAB7</string>
+    <string name="more">More</string>
+    <string name="back_button">Back</string>
+
+</resources>
